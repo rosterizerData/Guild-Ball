@@ -1,3 +1,3 @@
 # Guild-Ball
 
-https://raw.githubusercontent.com/RosterizerTestData/Guild-Ball/main/Guild-Ball.rulebook
+https://raw.githubusercontent.com/RosterizerData/Guild-Ball/main/Guild-Ball.rulebook
